@@ -1,0 +1,28 @@
+{
+
+"name": "Ekaterina",
+"surename": "Karnauhova",
+"age": 47,
+"marriage": false,
+"hobbes": null,
+"email": "katia--@mail.ru",
+"phonenumber": 375295765582,
+"address": {"city":"Minsk", "street": "Danyly Serdicha 58", "flat": 11},
+"citizenship": "Russian",
+"position desired": "QA engineer",
+"education": {"University":"Moscow of Civil Aviation", 
+"Institute":"Tourism", 
+"Online University":"Skypro"},
+"professional skills": ["knowledge of testing types",
+"design techniques and testing methodologies",
+"experience in creating test documentation", 
+"checklists Sitechko.ru", 
+"test cases Qaise",
+"bug reports Jira",
+"practical skills in working with SQL",
+"practical skills in product decomposition in Miro",
+"practical experience in functional",
+"UI/UX integration testing",
+"Smoke", "regression testing"],
+"Achievements": ["advisory support for fellow students", "continued self-study through"]
+}
